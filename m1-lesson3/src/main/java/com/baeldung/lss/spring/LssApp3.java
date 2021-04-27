@@ -10,7 +10,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.core.convert.converter.Converter;
 
 @SpringBootApplication
-@ComponentScan("com.baeldung.lss.web")
+@ComponentScan("com.baeldung.lss")
 public class LssApp3 {
 
     @Bean

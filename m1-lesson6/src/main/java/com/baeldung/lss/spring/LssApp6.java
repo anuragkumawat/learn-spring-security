@@ -9,7 +9,7 @@ import com.baeldung.lss.persistence.InMemoryUserRepository;
 import com.baeldung.lss.persistence.UserRepository;
 
 @SpringBootApplication
-@ComponentScan("com.baeldung.lss.web")
+@ComponentScan("com.baeldung.lss")
 public class LssApp6 { 
     
     @Bean
